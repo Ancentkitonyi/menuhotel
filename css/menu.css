@@ -1,0 +1,204 @@
+body{
+  width: 1400px;
+  background-color: #000;
+  margin-left: 90px;
+}
+.cc{
+  background-color: #fff;
+}
+/*header part*/
+.header-image{
+  background-image: url(/home/ancent/Desktop/PROJECTS/coderamp-selfassessments/sa3/assets/backgrounds/landing.jpg);
+  width: 1400px;
+  height: 636px;
+  margin: 0;
+  padding: 0;
+}
+.container {
+    display: inline-block;
+    cursor: pointer;
+    margin: 60px 0 0 90px;
+}
+
+.bar1, .bar2, .bar3 {
+    width: 100px;
+    height: 6px;
+    background-color: #fff;
+    margin: 15px 0;
+    transition: 0.4s;
+}
+.image{
+  margin-left: 39%;
+
+}
+.header-p{
+  text-align: center;
+  font-family: serif;
+  font-size: 60px;
+  color: #fff;
+}
+/*after header*/
+#hh{
+  background: #e4e5e7;
+  font-size: 2em;
+  margin: 0;
+  color: #000;
+  padding: 40px;
+}
+#pt{
+  background: #f25a29;
+  font-size: 2em;
+  margin: 0;
+  padding: 40px;
+}
+.after-H{
+  width: 100%;
+  color: #fff;
+  font-family: serif;
+  text-align: center;
+  margin-left: 0px;
+}
+.hp{
+  width: 25%;
+  float: left;
+}
+.bf{
+  background-image: url(/home/ancent/Desktop/PROJECTS/coderamp-selfassessments/sa3/assets/foodtop/breakfast.jpg);
+  background-size: contain;
+  height: 240px;
+  padding: 80px;
+  font-size: 2em;
+}
+.lh{
+  background-image: url(/home/ancent/Desktop/PROJECTS/coderamp-selfassessments/sa3/assets/foodtop/lunch.jpg);
+  background-size: contain;
+  height: 240px;
+  padding: 80px;
+  font-size: 2em;
+}
+.dn{
+  background-image: url(/home/ancent/Desktop/PROJECTS/coderamp-selfassessments/sa3/assets/foodtop/dinner.jpg);
+  background-size: contain;
+  height: 240px;
+  padding: 80px;
+  font-size: 2em;
+}
+.hp :hover{
+  color: #fff;
+  opacity: 0.5;
+}
+/****fastfood***/
+.drinks-ff{
+  width: 80%;
+  margin: 10% 10% 10% 10%;
+}
+.ff{
+  float: left;
+  width: 50%;
+}
+.h22{
+  font-family: serif;
+  font-weight: bold;
+  font-size: 30px;
+}
+.h33{
+  font-family: monospace;;
+  font-weight: bold;
+  font-size: 25px;
+}
+.frame{
+  border: 8px solid #e4e5e7;
+  padding: 0;
+  margin: 0;
+  width: 508px;
+}
+.frame img{
+  padding: 0;
+  margin: 0;
+}
+.btn {
+  background: none;
+  color: #f05a28;
+  font-size: 16px;
+  border: 1px solid #f05a28;
+  text-align: center;
+  height: 45px;
+  margin-top: 40px;
+}
+.drink{
+  float: left;
+  width: 50%;
+  text-align: right;
+}
+.drink img{
+  margin: 0;
+  padding: 0;
+  width: 247px;
+}
+.frame2{
+  margin-left: 40px;
+}
+.backimg2{
+  background-image: url(/home/ancent/Desktop/PROJECTS/coderamp-selfassessments/sa3/assets/backgrounds/foodsBg.jpg);
+  width: 100%;
+  height: 588px;
+}
+.cus-abt{
+  padding: 10% 5% 20% 5%;
+  text-align: center;
+}
+.cus-abt2{
+  float: left;
+  width: 50%;
+}
+.customers{
+  border-right: 2px solid #000;
+  margin-right: 10px;
+}
+.cus-abt2 h3{color: #f25a29;
+  font-weight: bold;}.cus-abt2 h4{font-weight: bold;}
+.backimg3{
+  background-image: url(/home/ancent/Desktop/PROJECTS/coderamp-selfassessments/sa3/assets/backgrounds/subscribe.jpg);
+  height: 301px;
+  width: 100%;
+  padding: 10% 25% 10% 25%;
+  text-align: center;
+  color: #fff;}.backimg3 p{font-size: 30px;font-weight: bold;
+  }
+.a_row{
+  float: left;
+}
+form{
+  text-align: center;
+  font-size: 20px;
+  margin-left: 100px;
+  border: none;
+}
+.a_row button{
+  background-color: #f25a29;
+  border: none;
+  margin-left: 20px;
+  height: 40px;
+}
+.a_row input{
+  background: #fff;
+  opacity: 0.3;
+  height: 40px;
+}
+.footer{
+  background-color: #f25a29;
+  padding: 2% 35% 2% 35%;
+  color: #fff;
+  font-size: 35px;
+}
+.footer ul {
+  display: inline-block;
+  margin-left: 0px;
+
+}
+.f1{
+  font-size: 25px;
+}
+.f2{
+  font-size: 15px;
+}
